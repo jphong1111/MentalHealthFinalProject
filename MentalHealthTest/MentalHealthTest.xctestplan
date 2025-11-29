@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "9B5A7FC9-1210-46B4-BC70-D908FF041F66",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:MentalHealth.xcodeproj",
+        "identifier" : "954A49392D9F647F00AEF6F8",
+        "name" : "MentalHealthTest"
+      }
+    }
+  ],
+  "version" : 1
+}

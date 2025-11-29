@@ -1,0 +1,280 @@
+/* 
+  Localizable.strings
+  MentalHealth
+
+  Created by JungpyoHong on 2/1/25.
+  
+*/
+//Tab Key
+"home" = "Home";
+"day" = "Day";
+"account" = "Account";
+
+// Home Key
+"quote_of_the_day" = "Quote of the Day";
+"weekly_mood_log" = "Weekly Mood Log";
+"yes" = "Yes";
+"no" = "No";
+"self_test" = "Self-Test";
+"ai_counselor" = "AI Counselor";
+"steps" = "Steps";
+"mentalhealth_score" = "Mental Health Score";
+"usage_time_label" = "🎉 Time spent with SoliU: %dh %dm";
+// Login
+"gender_title" = "What's your gender?";
+"male" = "Male";
+"female" = "Female";
+"other" = "Other";
+"welcome_back" = "Welcome Back!";
+"sign_in_prompt" = "Please sign in to your account";
+"email" = "Email";
+"enter_email" = "Enter your email";
+"password" = "Password";
+"enter_password" = "Enter your password";
+"forgot_password" = "Forgot password?";
+"sign_in" = "Sign In";
+"no_account" = "Don't have any account?";
+"sign_up" = "Sign up";
+"continue_as_guest" = "Continue As Guest";
+"forgot_password_title" = "Forgot Password?";
+"forgot_password_description" = "Provide your account’s email address \n to reset your password";
+"email_placeholder" = "Enter your email";
+"send_code_button" = "Send Code";
+"code_sent_message" = "Code was sent to your email. Check your inboxes!";
+"ok" = "OK";
+"password_length_warning" = "Password needs to be longer than 6";
+"already_have_account" = "Already have an account?";
+"login" = "Log in";
+"correct_password" = "Correct Password";
+"incorrect_password" = "Incorrect Password";
+"confirm_password" = "Confirm Password";
+"enter_your_details" = "Enter your details below";
+"whats_your_age" = "What’s your age?";
+"enter_your_age" = "Enter your age";
+"whats_your_current_status" = "What’s your current status?";
+"student" = "Student";
+"employed" = "Employed";
+"whats_your_ethnicity" = "What’s your ethnicity?";
+"americanIndian" = "American Indian";
+"alaskaNative" = "Alaska Native";
+"asian" = "Asian";
+"black" = "Black";
+"africanAmerican" = "African American";
+"nativeHawaiian" = "Native Hawaiian";
+"otherPacificIslander" = "Other Pacific Islander";
+"white" = "White";
+"enter_your_nickname" = "Enter your nickname";
+"whats_your_nickname" = "What’s your nickname?";
+"confirm_data_title" = "Please confirm the following data";
+"nickname" = "Nickname";
+"gender" = "Gender";
+"status" = "Status";
+"confirm" = "Confirm";
+"continue_as_guest_title" = "Continue as Guest?";
+"continue_as_guest_description" = "ℹ️ Note: If you continue as a guest, your test results and other data will not be saved. \nTo save your results and access them later, please Log In or Sign Up.";
+
+//FireBase Auth Error
+"reset_failed" = "Password Reset Failed";
+"invalid_email_title" = "Invalid Email Address";
+"invalid_email_message" = "The email address is badly formatted.";
+"email_not_found_title" = "Email Not Found";
+"email_not_found_message" = "There is no account associated with this email.";
+"too_many_attempts_title" = "Too Many Attempts";
+"too_many_attempts_message" = "You have requested password resets too frequently. Please try again later.";
+"network_error_title" = "Network Error";
+"network_error_message" = "Please check your internet connection and try again.";
+
+//Error Alert
+"missing_information_title" = "Missing Information";
+"missing_information_message" = "Please enter your email or password to continue.";
+
+// Account Key
+"guest" = "Guest";
+"medical_reference" = "Medical Reference";
+"disclaimer_text" = "This test is for informational purposes only and not a diagnostic tool.";
+
+"language_setting" = "Language Setting";
+"setting" = "Setting";
+"visit_website" = "Visit Website";
+"demographics" = "Demographics";
+"update" = "Update";
+"version" = "Version";
+"latest_version" = "Latest Version";
+"edit_profile" = "Edit Profile";
+"up_to_date" = "Up-to-date";
+"you_are_up_to_date" = "You are up-to-date.";
+"feedback" = "Feedback";
+"feedback_title" = "Write anything you think this app needs improvement on!";
+"feedback_sub_title" = "Write your feedback here.";
+"create_account" = "Create Account";
+"delete_account" = "Delete Account";
+"delete_account_description" = "If you delete account, you will permanently lose:\n• Profile\n• Test result history\n• Diary record";
+"age" = "Age";
+"current_status" = "Current Status";
+"ethnicity" = "Ethnicity";
+"log_out" = "Log Out";
+"logout_confirmation" = "Log out from this account?";
+"delete_account_confirmation" = "Delete Account?";
+"goToLoginPage" = "Go to LogIn Page?";
+
+//Answer Choices
+"very_rarely" = "Very Rarely";
+"rarely" = "Rarely";
+"sometimes" = "Sometimes";
+"often" = "Often";
+"very_often" = "Very Often";
+
+"next" = "Next";
+"submit" =  "Submit";
+
+//Test Start
+"test_start_proceeding" = "By proceeding, you consent to data collection and acknowledge that this test is not a diagnostic tool.";
+"view_source_information" = "View source information";
+"start" = "Start";
+"see_my_result" = "See My Result";
+"before_we_start" = "Before we start, know this...";
+"test_composed_of" = "This test is composed of 6 sections:";
+"test_sections" = "1. Depression\n2. Anxiety\n3. Stress\n4. Social Media Addiction\n5. Loneliness\n6. Health-related Quality of Life (HRQOL)";
+
+//Test 1
+"test_one_depression" = "Test 1: Depression";
+"test_one_first_question" = "I felt downhearted and blue.";
+"test_one_second_question" = "I felt that I had nothing to look forward to.";
+"test_one_third_question" = "I felt that life was meaningless.";
+"test_one_forth_question" = "I felt I wasn't worth much as a person.";
+"test_one_fifth_question" = "I was unable to become enthusiastic about anything.";
+
+//Test 2
+"test_two_anxiety" = "Test 2: Anxiety";
+"test_two_first_question" = "I was aware of dryness of my mouth.";
+"test_two_second_question" = "I experienced trembling (e.g., in the hands).";
+"test_two_third_question" = "I was worried about situations in which I might panic and make a fool of myself.";
+"test_two_forth_question" = "I felt I was close to panic.";
+"test_two_fifth_question" = "I felt scared without any good reason.";
+
+//Test 3
+"test_three_stress" = "Test 3: Stress";
+"test_three_first_question" = "I found it hard to wind down.";
+"test_three_second_question" = "I felt that I was using a lot of nervous energy.";
+"test_three_third_question" = "I found myself getting agitated.";
+"test_three_forth_question" = "I tended to over-react to situations.";
+"test_three_fifth_question" = "I was intolerant of anything that kept me from getting on with what I was doing.";
+
+// Test 4
+"test_four_social_media_addiction" = "Test 4: Social Media Addiction";
+"test_four_first_question" = "You spend a lot of time thinking about social media or planning how to use it.";
+"test_four_second_question" = "You feel an urge to use social media more and more.";
+"test_four_third_question" = "You use social media in order to forget about personal problems.";
+"test_four_forth_question" = "You become restless or troubled if you are prohibited from using social media.";
+"test_four_fifth_question" = "You use social media so much that it has had a negative impact on your job/studies.";
+
+// Test 5
+"test_five_loneliness" = "Test 5: Loneliness";
+"test_five_first_question" = "I lack companionship.";
+"test_five_second_question" = "I feel isolated from others.";
+"test_five_third_question" = "I am no longer close to anyone.";
+"test_five_forth_question" = "My interests and ideas are not shared by those around me.";
+"test_five_fifth_question" = "My social relationships are superficial.";
+
+// Test 6: HRQOL
+"test_six_hrqol" = "Test 6: HRQOL";
+"test_six_first_question" = "Would you say that in general your health is excellent, very good, good, fair, or poor?";
+"test_six_second_question" = "Now thinking about your physical health, which includes physical illness and injury, how many days during the past 30 days was your physical health not good?";
+"test_six_third_question" = "Now thinking about your mental health, which includes stress, depression, and problems with emotions, how many days during the past 30 days was your mental health not good?";
+"test_six_forth_question" = "During the past 30 days, approximately how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?";
+"test_six_fifth_question" = "During the past 30 days, approximately how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?";
+
+// Test 6 Answer
+"poor" = "Poor";
+"fair" = "Fair";
+"good" = "Good";
+"very_good" = "Very Good";
+"excellent" = "Excellent";
+
+"very_frequently_days" = "Very frequently \n (21-30 days)";
+"frequently_days" = "Frequently \n (11-20 days)";
+"occasionally_days" = "Occasionally \n (6-10 days)";
+"rarely_days" = "Rarely \n (1-5 days)";
+"never_days" = "Never \n (0 days)";
+
+//Test Result
+"test_result" = "Test Result";
+"my_score" = "My score";
+"danger_level" = "Danger Level";
+"low" = "Low";
+"moderate" = "Moderate";
+"high" = "High";
+"depression" = "Depression";
+"anxiety" = "Anxiety";
+"stress" = "Stress";
+"social_media" = "Social Media Addiction";
+"loneliness" = "Loneliness";
+"hrql" = "HRQL";
+"depression_info" = "Check user’s low mood of interest in previously enjoyable activities.";
+"anxiety_info" = "Check user’s mental state of negative expectation.";
+"stress_info" = "Check user’s state of worry and mental tension from difficult situations.";
+"social_media_addiction_info" = "Check user’s unhealthy dependence on online platforms.";
+"loneliness_info" = "Check user’s gap between one’s desires for social connection and actual experiences of it.";
+"hrqol_info" = "Check user’s perceived mental health over time.";
+
+//AI counselor
+"hey" = "Hey";
+"start_talking" = "Start Talking";
+"start_recording" = "Start Recording";
+"counselor_good" = "Good";
+"counselor_bad" = "Bad";
+
+//Diary Entry View
+"counselor_question_label" = "How was your day?";
+"counselor_question_sub_label" = "No matter how your day went, we're here for you. 💛 \nIf you had a good day, you can write it down as a memory.\nIf it was a tough day, let us know \nWe’ll share some words of encouragement.";
+"save" = "Save";
+
+"advice_empty_label" = "We’d love to hear more! Please share a little more detail. 😊";
+"ai_counselor_title" = "Your day, your story. \n Write it down.";
+
+"counselor_advice_title_good" = "Did you have a good day? 😊 \nShare the moments that made you happy or the reasons why you're feeling good!\nReflecting on positive experiences can help you cherish them even more.";
+"seeker_record_example_good" = "Capture your precious moments in words and cherish them forever! ✨";
+"counselor_advice_title_bad" = "Facing Challenges? \nShare your concerns below, and we’ll provide personalized guidance";
+"seeker_record_example_bad" = "e.g., I’m struggling with my grades, and I’m afraid I won’t pass this semester.";
+"get_advice" = "We’re Here for You";
+"generated_answer" = "A Message for You";
+"generating_answer" = "We’re preparing a thoughtful message for you… Please hold on! 💛";
+"saved_advice_title_bad" = "What’s been on your mind?";
+"saved_advice_record_bad" = "A message of encouragement for you.";
+"saved_advice_record_good" = "Let's look back on the happy moments you wrote!";
+
+"advice_save_error_message" = "Failed to save the Message. Please try again.";
+"advice_save_success_message" = "Message saved successfully! \nKeep it handy whenever you need it.";
+"advice_generation_failed_text" = "Oops! Something went wrong while generating the message.\nPlease give it another try!";
+
+"login_required_title" = "Log in Required";
+"login_required_message" = "Want to save your message? \nLog in to keep it safe!";
+"login_now" = "Log in Now";
+"maybe_later" = "Maybe Later";
+
+//Feeling Record
+"how_do_you_feel_today" = "How do you feel today?";
+"log_your_feeling" = "Log your feeling of the day!";
+
+//etc
+"success" = "Success";
+"error_title" = "Something went wrong";
+"error_try_again" = "Please try again";
+"show" = "Show";
+"hide" = "Hide";
+"welcome" = "Welcome,";
+"welcome_description" = "Let's take a step together for your mental well-being.";
+"info_updated" = "Your information has been updated";
+"update_app_version" = "Update to new version";
+
+//Notification
+"daily_notification_body_1" = "Think back to what you told yourself today — was it kind?";
+"daily_notification_body_2" = "Even if it was hard, you made it this far. That’s pretty amazing.";
+"daily_notification_body_3" = "There was a moment today when you did your best — remember that.";
+"daily_notification_body_4" = "You don’t have to be perfect. Just being here is enough.";
+"daily_notification_body_5" = "Taking care of yourself today — that was your accomplishment too.";
+"daily_notification_body_6" = "Thank yourself for getting through the day.";
+
+// Meditation Section
+"breathe_in" = "Breathe in";
+"breathe_out" = "Breathe out";
